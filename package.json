@@ -29,7 +29,7 @@
   "dependencies": {
     "larvitbase": "3.1.3",
     "larvitfs": "2.3.1",
-    "larvitreqparser": "0.4.5",
+    "larvitreqparser": "0.4.13",
     "larvitrouter": "3.0.2",
     "larvitutils": "2.3.0",
     "semver": "6.2.0",
